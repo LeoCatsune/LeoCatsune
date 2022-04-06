@@ -12,8 +12,8 @@ I'm Currently On...
   - [And More!](https://linktr.ee/deltaproto)
 
 ## Stats
-![Delta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nullpointdev&show_icons=true&theme=gruvbox)
-![Delta's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=nullpointdev&show_icons=true&theme=gruvbox&layout=compact)
+![Delta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProtogenDelta&show_icons=true&theme=gruvbox)
+![Delta's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ProtogenDelta&show_icons=true&theme=gruvbox&layout=compact)
 
 <!--
 TODO: Implement some of these?
