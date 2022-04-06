@@ -1,5 +1,5 @@
-# Hello There!
-Hey, the name's Leo, but you can call me Delta or Null.
+# Hello, World!
+Hey, the name's Delta (previously `NullPointDev`).
 
 I'm currently a high school student, usually working on random projects or playing videogames in my spare time.
 
@@ -12,13 +12,11 @@ I'm Currently On...
   - [And More!](https://linktr.ee/deltaproto)
 
 ## Stats
-![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nullpointdev&show_icons=true&theme=gruvbox)
-![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=nullpointdev&show_icons=true&theme=gruvbox&layout=compact)
+![Delta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=nullpointdev&show_icons=true&theme=gruvbox)
+![Delta's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=nullpointdev&show_icons=true&theme=gruvbox&layout=compact)
 
 <!--
-**NullPointDev/NullPointDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+TODO: Implement some of these?
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
