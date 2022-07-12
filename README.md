@@ -3,6 +3,7 @@
 [![Twitter][twitter-img]][twitter-url]
 [![Twitch][twitch-img]][twitch-url]
 [![YouTube][youtube-img]][youtube-url]
+[![Keybase][keybase-img]][keybase-url]
 [![LinkTree][linktree-img]][linktree-url]
 
 # About Me
@@ -69,5 +70,7 @@ TODO: Implement templating?
 [twitch-url]: https://twitch.tv/ProtogenDelta
 [youtube-img]: https://img.shields.io/youtube/channel/subscribers/UCR_rDSaMq_2LvlyKfCKS2uw?label=Subscribe&logo=youtube&logoColor=f00&style=for-the-badge
 [youtube-url]: https://www.youtube.com/channel/UCR_rDSaMq_2LvlyKfCKS2uw?sub_confirmation=1
+[keybase-img]: https://img.shields.io/keybase/pgp/protodelta?logo=keybase&style=for-the-badge
+[keybase-url]: https://keybase.io/protodelta
 [linktree-img]: https://img.shields.io/badge/LinkTree-Visit-39e09b?logo=linktree&style=for-the-badge
 [linktree-url]: https://linktr.ee/deltaproto
