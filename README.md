@@ -60,7 +60,8 @@ TODO: Implement some of these?
 TODO: Implement templating?
 -->
 
-[twitter-img]: https://img.shields.io/twitter/follow/TheDeltaProto?color=1d9bf0&label=Follow&logo=twitter&style=for-the-badge
+<!-- [twitter-img]: https://img.shields.io/twitter/follow/TheDeltaProto?color=1d9bf0&label=Follow&logo=twitter&style=for-the-badge -->
+[twitter-img]: https://img.shields.io/badge/follow-%40TheDeltaProto-1DA1F2?logo=twitter&style=for-the-badge
 [twitter-url]: https://twitter.com/TheDeltaProto
 [twitch-img]: https://img.shields.io/twitch/status/protogendelta?color=9046ff&label=Twitch&logo=twitch&style=for-the-badge
 [twitch-url]: https://twitch.tv/ProtogenDelta
