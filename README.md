@@ -1,66 +1,35 @@
-![Delta. Hobbyist, Bot Developer](Header.png)
+> New banner coming soon-ish™ I promise
 
 [![Twitter][twitter-img]][twitter-url]
 [![Twitch][twitch-img]][twitch-url]
 [![YouTube][youtube-img]][youtube-url]
-[![Keybase][keybase-img]][keybase-url]
-<!-- ![LinkTree][linktree-img]][linktree-url] -->
 
 # About Me
 
-I'm a random nerd on the internet, with a moderate amount of programming experience.
+I'm a random shapeshifting cat on the internet, with a moderate amount of programming experience.
 
-I started learning back in 2015 with [Scratch](https://scratch.mit.edu), and then continued advancing my knowledge and skills.
+I started learning back in 2015 with [Scratch](https://scratch.mit.edu) *(We've all gotta start somewhere...)*, and continued advancing my knowledge and skills from there.
 
-I'm currently a student, and I spend a large amount of my spare time working on various personal projects.
+I'm primarily a hobby developer at this stage, though I do write some code for work that I don't share here... :eyes:
 
 ## Username Changes
 
-> **Last Updated:** 2023-05-08
+> **Last Updated:** 2024-06-24
 
-So, as of recently, I decided to properly switch up my presence online. As such, I've started to use the username **LeoCatto** (or some variation thereof,) in various places.
+***Almost a year later...***
 
-This account, and other code-related ones, will be kept as-is. This will only be affecting my social and personal accounts.
+I've finally updated my username on here!
 
-This decision stems from a long runnnig matter of personal association, and just general preferences.
+Yep, it's been a long time coming, but `ProtogenDelta` is no more!<br/>
+Er- well, except for the services where I *can't* change my username *(grumble grumble...)*
 
-You can find the updated links to my socials [on my website](https://delta.is-a.dev/).
+## To-Do
 
-## I use...
-
-<!--start:use-->
-- NodeJS
-- TypeScript
-- Rust
-<!--end:use-->
-
-## I'm learning...
-
-<!--start:learning-->
-- Rust
-<!--end:learning-->
-
-## Looking to collaborate on...
-
-<!--start:looking-to-collab-->
-*Nothing at the moment, Sorry! Check back later.*
-<!--end:looking-to-collab-->
-
-## Looking for help with...
-
-<!--start:looking-for-help-->
-*Nothing at the moment, Sorry! Check back later.*
-<!--end:looking-for-help-->
-
-## Ask me about...
-
-<!--start:ask-me-about-->
-*Nothing at the moment, Sorry! Check back later.*
-<!--end:ask-me-about-->
+I really want to flesh this profile out with some cool stuff, so watch this space!
 
 ## Stats
-![Delta's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ProtogenDelta&show_icons=true&theme=gruvbox)
-![Delta's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=ProtogenDelta&show_icons=true&theme=gruvbox&layout=compact)
+![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api?username=LeoCatsune&show_icons=true&theme=gruvbox)
+![Leo's GitHub Stats](https://github-readme-stats.vercel.app/api/top-langs?username=LeoCatsune&show_icons=true&theme=gruvbox&layout=compact)
 
 <!--
 TODO: Implement some of these?
@@ -72,14 +41,9 @@ TODO: Implement some of these?
 TODO: Implement templating?
 -->
 
-<!-- [twitter-img]: https://img.shields.io/twitter/follow/TheDeltaProto?color=1d9bf0&label=Follow&logo=twitter&style=for-the-badge -->
 [twitter-img]: https://img.shields.io/badge/follow-%40LeoCatsune-1DA1F2?logo=twitter&style=for-the-badge
 [twitter-url]: https://twitter.com/LeoCatsune
 [twitch-img]: https://img.shields.io/twitch/status/leocatto?color=9046ff&label=Twitch&logo=twitch&style=for-the-badge
 [twitch-url]: https://twitch.tv/LeoCatto
 [youtube-img]: https://img.shields.io/youtube/channel/subscribers/UCR_rDSaMq_2LvlyKfCKS2uw?label=Subscribe&logo=youtube&logoColor=f00&style=for-the-badge
 [youtube-url]: https://www.youtube.com/channel/@protodelta?sub_confirmation=1
-[keybase-img]: https://img.shields.io/keybase/pgp/protodelta?logo=keybase&style=for-the-badge
-[keybase-url]: https://keybase.io/protodelta
-<!-- [linktree-img]: https://img.shields.io/badge/LinkTree-Visit-39e09b?logo=linktree&style=for-the-badge -->
-<!-- [linktree-url]: https://linktr.ee/deltaproto -->
