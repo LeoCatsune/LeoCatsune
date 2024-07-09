@@ -46,4 +46,4 @@ TODO: Implement templating?
 [twitch-img]: https://img.shields.io/twitch/status/leocatto?color=9046ff&label=Twitch&logo=twitch&style=for-the-badge
 [twitch-url]: https://twitch.tv/LeoCatto
 [youtube-img]: https://img.shields.io/youtube/channel/subscribers/UCR_rDSaMq_2LvlyKfCKS2uw?label=Subscribe&logo=youtube&logoColor=f00&style=for-the-badge
-[youtube-url]: https://www.youtube.com/channel/@protodelta?sub_confirmation=1
+[youtube-url]: https://www.youtube.com/channel/@leocatto?sub_confirmation=1
